@@ -1,0 +1,16 @@
+@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+@import url('https://fonts.googleapis.com/css2?family=Poppins');
+:root {
+--themeColor1: #B457DCFF;
+--themeColor2: #AE00E5FF;
+--customFont: 'Poppins';
+--homeImage: url('https://i.imgur.com/xS1PUcH.png');
+--homeImageSize: cover;
+--backgroundColor: #0D0D0DFF;
+--backgroundImage: url('https://i.imgur.com/KGO7J2o.jpg');
+--backgroundPosition: center;
+--backgroundSize: contain;
+--backgroundRepeat: no-repeat;
+--backgroundBlur: 5px;
+--backgroundOpacity: 0.25;
+}
